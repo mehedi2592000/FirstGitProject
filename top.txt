@@ -1,3 +1,7 @@
+<<<<<<< HEAD
 dsadaasad
 
 git push -u origin main
+=======
+dsadaasadvfdvfvxfv
+>>>>>>> 731f8324eca47abf186314757ec6f2dafe6360ba
