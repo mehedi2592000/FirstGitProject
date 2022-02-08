@@ -1,0 +1,48 @@
+body{
+    margin-top: 90px;
+}
+
+.navbar{
+    box-shadow: 2px 2px 5px #3292a6;
+    background: #fff;
+    opacity: 0.9;
+
+}
+
+.nav-item{
+    font-size: 1.4rem;
+}
+
+.nav-link{
+    color:#252525;
+}
+
+#showcase{
+    position: relative;
+    background-image: url('../pic/w.jpg');
+    min-height: 600px;
+}
+
+.primary-overlay{
+    background: rgba(50, 146, 156, 0.7);
+    min-height: 600px;
+    position: absolute;
+    top: 0;
+    left: 0;
+    width:100%;
+    height:100%;
+
+
+}
+
+ img {
+    margin-top:-60px;
+}
+
+ .fa{
+    font-size: 25px;
+}
+
+.card:hover{
+    background: yellowgreen;
+}
